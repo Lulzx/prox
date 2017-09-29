@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Bot's token. Obtain yours from https://telegram.me/botfather
-token = "TOKEN"
+token = "384742340:AAETgAQr48DrdczySb6gOCI0dmwHQeuKaM8"
 
 
 storage_name = "StorageUser"
