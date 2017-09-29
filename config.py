@@ -15,7 +15,7 @@ storage_namelist = 'txtfiles/namelist.txt'
 storage_fnamelist = 'txtfiles/fnamelist.txt'
 storage_blockmsg = 'txtfiles/blockmsg.txt'
 # Your own chat id. Ask https://telegram.me/my_id_bot to tell you yours
-my_id = yourid
+my_id = 353341197
 
 '''
 Here are things you should know:
